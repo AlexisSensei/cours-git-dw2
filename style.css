@@ -1,0 +1,15 @@
+nav ul li {
+    color: blue;
+}
+
+.navigation li {
+    color: yellow !important;
+}
+
+section nav ul.menu {
+    color: red;
+}
+
+li {
+    color: green;
+}
