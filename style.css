@@ -1,15 +1,3 @@
-nav ul li {
-    color: blue;
-}
-
-.navigation li {
-    color: yellow !important;
-}
-
-section nav ul.menu {
-    color: red;
-}
-
-li {
-    color: green;
-}
+@import "css/commons/typos.css";
+@import "css/composants/boutons.css";
+@import "css/composants/navigation.css";
